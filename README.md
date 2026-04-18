@@ -1,16 +1,19 @@
-## Hi there 👋
+# [takuya933]
 
-<!--
-**takuya933/takuya933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+高専にて情報工学および制御理論を専攻している5年生です．
 
-Here are some ideas to get you started:
+### 興味のある分野
+- AIのしくみ
+- 便利なアプリ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 書ける言語
+- **Java**: プログラミングはJavaから始めました．敢えてこれで何かを作るメリットは現在ほぼ無いものの，初めての言語としての愛着があり，何かこれで作ろうと思っています．
+- **C#**: Javaそっくり．これで何でも作れちゃう．大好き．
+- **C++**: 速くて好き．よく低レイヤーだと言われるものの，結構感覚的に書けるので将来安泰だと思っています．
+- **Rust**: 期待の新星．安全に書けて速く動くと聞き，ミーハーな僕はすぐに飛びつきました．独自の制約があったりしてC++よりも書きづらいものの，書けたら強いだろうというモチベーションをもって学べています．
+
+### 現在の活動
+- **卒業研究**: 誤差逆伝播法を使わずに学習できるAIモデルの模索
+- **学習**: 大学編入に向けたTOEICスコア向上に奮闘．これが終わったら開発してみよう．
+
+---
