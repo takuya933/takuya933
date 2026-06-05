@@ -20,8 +20,7 @@
 ---
 
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuya933&layout=compact&theme=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takuya933&show_icons=true&theme=flat)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takuya933)
 
 ---
 このプロフィールはGeminiを利用して作成しました。
