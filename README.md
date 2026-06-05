@@ -20,7 +20,7 @@
 ---
 
 ### GitHub Stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takuya933)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuya933)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 このプロフィールはGeminiを利用して作成しました。
